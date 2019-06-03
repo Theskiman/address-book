@@ -1,0 +1,11 @@
+C:\Users\Cliff\backend\address-book\bin\Debug\netcoreapp2.2\address-book.deps.json
+C:\Users\Cliff\backend\address-book\bin\Debug\netcoreapp2.2\address-book.runtimeconfig.json
+C:\Users\Cliff\backend\address-book\bin\Debug\netcoreapp2.2\address-book.runtimeconfig.dev.json
+C:\Users\Cliff\backend\address-book\bin\Debug\netcoreapp2.2\address-book.dll
+C:\Users\Cliff\backend\address-book\bin\Debug\netcoreapp2.2\address-book.pdb
+C:\Users\Cliff\backend\address-book\obj\Debug\netcoreapp2.2\address-book.csprojAssemblyReference.cache
+C:\Users\Cliff\backend\address-book\obj\Debug\netcoreapp2.2\address-book.csproj.CoreCompileInputs.cache
+C:\Users\Cliff\backend\address-book\obj\Debug\netcoreapp2.2\address-book.AssemblyInfoInputs.cache
+C:\Users\Cliff\backend\address-book\obj\Debug\netcoreapp2.2\address-book.AssemblyInfo.cs
+C:\Users\Cliff\backend\address-book\obj\Debug\netcoreapp2.2\address-book.dll
+C:\Users\Cliff\backend\address-book\obj\Debug\netcoreapp2.2\address-book.pdb
